@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimplePaint_LeDuyKhiem_20110661.Shape.cShape">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAYBCAgAAQAAAAAAACAMAAAIAgAABAAAAAAA=</HashCode>
+      <FileName>Shape\cShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplePaint_LeDuyKhiem_20110661.Shape.Line" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIBAAgIAAAAAAQAAAACAAAAAAAABAAAAYAA=</HashCode>
+      <FileName>Shape\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplePaint_LeDuyKhiem_20110661.Shape.Rectangle" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIBAAgIAAIIAAQAAAACAAAEAQAhBAAAAYAA=</HashCode>
+      <FileName>Shape\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplePaint_LeDuyKhiem_20110661.Shape.Ellipse" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIBAAgIAAAIAAQAAAACAAAEAQAgBAAAAYAA=</HashCode>
+      <FileName>Shape\Ellipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplePaint_LeDuyKhiem_20110661.Shape.Circle" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIBAAgIAAAIAAQAAAACAAAEAAAABAAAAYAA=</HashCode>
+      <FileName>Shape\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplePaint_LeDuyKhiem_20110661.Shape.Square" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIBAAgIAAIIAAQAAAACAAAEAAAgBAAAAYAA=</HashCode>
+      <FileName>Shape\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplePaint_LeDuyKhiem_20110661.Shape.Curve" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAIBAAgIAAAAAAQAAAACAAAAAAAgBAABIYAA=</HashCode>
+      <FileName>Shape\Curve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplePaint_LeDuyKhiem_20110661.Shape.Polygon" Collapsed="true">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIBAAgIAAAAAAQAAAACAAAAAAAABAABAYAA=</HashCode>
+      <FileName>Shape\Polygon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
